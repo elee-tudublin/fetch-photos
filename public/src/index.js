@@ -4,7 +4,7 @@
 // NASA
 // https://api.nasa.gov/
 //
-const url_nasa = 'https://api.nasa.gov/planetary/apod?api_key=IpcMgXbpAzoXXkxdmzj8wUQtpQOzj8ye2FPN2vys';
+const url_nasa = 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY';
 
 // Animals
 // https://github.com/public-apis/public-apis#animals
